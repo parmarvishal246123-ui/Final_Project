@@ -179,4 +179,4 @@ Through this project, the key skills of loading data, handling missing values an
 
 ## Author
 
-**[YOUR NAME]**
+**[Parmar Vishal]**
